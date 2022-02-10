@@ -1,0 +1,11 @@
+{
+  "name": "filesserver1",
+  "version": "1.0.0",
+  "description": "This is a server for multiple file html jpg jpeg etc",
+  "main": "filesServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "0script",
+  "license": "ISC"
+}
